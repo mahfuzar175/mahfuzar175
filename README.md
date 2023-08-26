@@ -15,12 +15,9 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 🔍 Familiar:
 <li>Database: SQL, MySQL</li>
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzar175&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzar175" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuzar175" alt="mahfuzar175" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mahfuzartarek" target="blank"><img src="https://img.shields.io/twitter/follow/mahfuzartarek?logo=twitter&style=for-the-badge" alt="mahfuzartarek" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, bootstrap, JavaScript, Tailwindcss**
 
