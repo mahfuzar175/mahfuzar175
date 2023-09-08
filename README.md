@@ -10,7 +10,8 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
   <li>Tools: Visual Studio Code, GitHub</li>
   <br>
 😊 Comfortable:
-  <li>Front-end development: JavaScript.</li>
+  <li>Front-end development: JavaScript, React.js</li>
+  <li>Tools: npm</li>
   <br>
 🔍 Familiar:
 <li>Database: SQL, MySQL</li>
