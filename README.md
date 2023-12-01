@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFq-qd2fstb2A/profile-displaybackgroundimage-shrink_350_1400/0/1690200559137?e=1698278400&v=beta&t=5Ntxz2DDfLTdbsSaDdADLd8ve_lXiCxPWzgBQ7Z3nGk)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFq-qd2fstb2A/profile-displaybackgroundimage-shrink_350_1400/0/1690200561358?e=1706745600&v=beta&t=3C1yWA_R7j7Ta4EGs6YV7Rxip3D23DQ2MD0HdeClJi8)
 <h1 align="center">Hi 👋, I'm Md Mahfuzar Rahman Tarek</h1>
 <h3 align="center">A passionate Junior Front-End Developer</h3>
 I am a dedicated fourth-year computer science student at Varendra University, with a profound passion for software and web development. My focus lies in pursuing an internship opportunity as a web developer, where I can apply and elevate my skills to new heights.
