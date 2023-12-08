@@ -23,7 +23,7 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuzar175" alt="mahfuzar175" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, bootstrap, JavaScript, Tailwindcss**
+- 💬 Ask me about **HTML, CSS, bootstrap, Tailwindcss, JavaScript, React.js, Express.js, MongoDB**
 
 - 📫 How to reach me **mahfuzar175@gmail.com**
 
