@@ -11,6 +11,9 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
   <br>
 😊 Comfortable:
   <li>Front-end development: JavaScript, React.js</li>
+  <li>Back-end development: Express.js, MongoDB</li>
+  <li>Database: Firebase</li>
+  <li>Technologies: RESTful APIs </li>
   <li>Tools: npm</li>
   <br>
 🔍 Familiar:
