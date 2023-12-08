@@ -40,5 +40,5 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuzar175&show_icons=true&locale=en" alt="mahfuzar175" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuzar175&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuzar175" alt="GitHub Streak" /></a>
 
