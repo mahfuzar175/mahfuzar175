@@ -45,7 +45,7 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzar175)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzar175&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzar175&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzar175&theme=dark&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahfuzar175)  
 
