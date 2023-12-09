@@ -46,6 +46,12 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mahfuzar175&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzar175&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzar175&theme=dark&show_icons=true) 
 
