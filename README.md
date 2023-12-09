@@ -52,5 +52,39 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 </div>
 
 
+## 🔥 Recent Projects
+
+### 🌍 Fauget Travel - Tourist Guide Website
+- **Description:** Fauget Travel is an online platform that offers comprehensive information and resources for travelers seeking guidance on popular destinations. The website supports three roles: Normal User/Tourist, Tour Guide, and Admin.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Node.js, Express.js
+  - Database: MongoDB,
+  - Authentication: Firebase Authentication with JWT set at cookies
+  - Demo Admin email: admin@gmail.com
+  - Demo Admin password: Admin@123456
+- [Client Site](https://github.com/programming-hero-web-course1/b8a12-client-side-mahfuzar175) - [Server Site] (https://github.com/programming-hero-web-course1/b8a12-server-side-mahfuzar175) - [Live Demo](https://fauget-travel.web.app/)
 
 
+### 🗺️ TravelTandem
+
+- **Description:** Developing a user-friendly tourism platform with secure authentication, it features clear navigation, detailed service listings, and an interactive booking system. Service providers benefit from a dedicated management interface, while users enjoy personalized experiences with individual schedules and service status options.
+
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Node.js, Express.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT set at cookies
+- [Client Site](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-mahfuzar175) - [Server Site](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-mahfuzar175) - [Live Demo](https://traveltandem-995c1.web.app/)
+
+
+### 🍽️ Foodily Website - E-Commerce Platform
+
+- **Description:** Foodily is a user-friendly e-commerce platform that allows users to explore a variety of food products, manage their shopping cart, and enjoy a seamless shopping experience. This repository contains the codebase for the Foodily website.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT set at cookies
+
+- [Client Site](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-mahfuzar175) - [Server Site](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-mahfuzar175) 
