@@ -26,14 +26,14 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
 
 - 💬 Ask me about **HTML, CSS, bootstrap, Tailwindcss, JavaScript, React.js, Express.js, MongoDB**
 
-- 📫 How to reach me: 📧 **mahfuzar175@gmail.com**, 📱: **+8801758343470**, **+8801746908416**
+- 🤝 How to reach me: 📧Email: **mahfuzar175@gmail.com**, 📱Phone: **+8801758343470**, **+8801746908416**
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/mahfuzartarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahfuzartarek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-mahfuzar-rahman-tarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuzar-rahman-tarek/" height="30" width="40" /></a>
 <a href="https://fb.com/mahfuzar.rahman.tarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuzar.rahman.tarek/" height="30" width="40" /></a>
 <a href="https://instagram.com/mahfuzarrahmantarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuzarrahmantarek/" height="30" width="40" /></a>
+<a href="https://twitter.com/mahfuzartarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahfuzartarek" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahfuzar175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahfuzar175" height="30" width="40" /></a>
 </p>
 
