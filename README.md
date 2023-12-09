@@ -63,7 +63,7 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
   - Authentication: Firebase Authentication with JWT set at cookies
   - Demo Admin email: admin@gmail.com
   - Demo Admin password: Admin@123456
-- [Client Site](https://github.com/programming-hero-web-course1/b8a12-client-side-mahfuzar175) - [Server Site] (https://github.com/programming-hero-web-course1/b8a12-server-side-mahfuzar175) - [Live Demo](https://fauget-travel.web.app/)
+- [Client Site](https://github.com/programming-hero-web-course1/b8a12-client-side-mahfuzar175) - [Server Site](https://github.com/programming-hero-web-course1/b8a12-server-side-mahfuzar175) - [Live Demo](https://fauget-travel.web.app/)
 
 
 ### 🗺️ TravelTandem
