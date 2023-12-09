@@ -63,7 +63,7 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
   - Authentication: Firebase Authentication with JWT set at cookies
   - Demo Admin email: admin@gmail.com
   - Demo Admin password: Admin@123456
-- [Client Site](https://github.com/programming-hero-web-course1/b8a12-client-side-mahfuzar175) - [Server Site](https://github.com/programming-hero-web-course1/b8a12-server-side-mahfuzar175) - [Live Demo](https://fauget-travel.web.app/)
+- [Client Site](https://github.com/mahfuzar175/fauget-travel-client-side) - [Server Site](https://github.com/mahfuzar175/fauget-travel-server-side) - [Live Demo](https://fauget-travel.web.app/)
 
 
 ### 🗺️ TravelTandem
@@ -75,7 +75,7 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
-- [Client Site](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-mahfuzar175) - [Server Site](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-mahfuzar175) - [Live Demo](https://traveltandem-995c1.web.app/)
+- [Client Site](https://github.com/mahfuzar175/travel_tandem-client-side) - [Server Site](https://github.com/mahfuzar175/travel_tandem-server-side) - [Live Demo](https://traveltandem-995c1.web.app/)
 
 
 ### 🍽️ Foodily Website - E-Commerce Platform
@@ -87,4 +87,4 @@ I am a dedicated fourth-year computer science student at Varendra University, wi
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
 
-- [Client Site](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-mahfuzar175) - [Server Site](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-mahfuzar175) 
+- [Client Site](https://github.com/mahfuzar175/brandshop-client-side) - [Server Site](https://github.com/mahfuzar175/brandshop-server-side) - [Live Demo](https://foodily-website.web.app/)
