@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Mahfuzar Rahman Tarek</h1>
 <h3 align="center">A passionate Junior Front-End Web Developer</h3>
-I am a dedicated fourth-year computer science student at Varendra University, with a profound passion for software and web development. My focus lies in pursuing an internship opportunity as a web developer, where I can apply and elevate my skills to new heights.
+I am a committed graduate with a degree in computer science and engineering from Varendra University, with a profound passion for software and web development. My focus lies in pursuing an internship opportunity as a web developer, where I can apply and elevate my skills to new heights.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h5>Skills:</h5>
 🌟 Expertise:
