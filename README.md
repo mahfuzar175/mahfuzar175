@@ -53,6 +53,8 @@ I am a committed graduate with a degree in computer science and engineering from
   <img src="https://streak-stats.demolab.com?user=mahfuzar175&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahfuzar175&theme=dark" alt="GitHub Streak" /></a>
+
 
 ## 🔥 Recent Projects
 
